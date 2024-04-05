@@ -13,7 +13,7 @@ export var App = () => {
         alignItems: 'center',
       }}
     >
-      What is causing this?
+      Rocket
       <img
         src='https://github.com/concrete-utopia/utopia/blob/master/editor/resources/editor/pyramid_fullsize@2x.jpg?raw=true'
         alt='Utopia logo'
